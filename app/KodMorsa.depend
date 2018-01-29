@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1358267139 source:c:\users\madjer\desktop\kodmorsaaobslugabledow\decoding.cpp
+	"decoding.hpp"
+
+1358030383 c:\users\madjer\desktop\kodmorsaaobslugabledow\decoding.hpp
+	<iostream>
+	<string>
+
+1358269826 source:c:\users\madjer\desktop\kodmorsaaobslugabledow\music.cpp
+	"music.hpp"
+
+1358043486 c:\users\madjer\desktop\kodmorsaaobslugabledow\music.hpp
+	<iostream>
+	<windows.h>
+
+1358267139 source:c:\users\madjer\desktop\kodmorsaaobslugabledow\coding.cpp
+	"coding.hpp"
+
+1358018948 c:\users\madjer\desktop\kodmorsaaobslugabledow\coding.hpp
+	<iostream>
+	<string>
+
+1358439996 source:c:\users\madjer\desktop\kodmorsaaobslugabledow\main.cpp
+	"coding.hpp"
+	"decoding.hpp"
+	"music.hpp"
+	<fstream>
+	<cstdlib>
+
+1358267139 source:d:\madjer\informatyka\wmi\ppr\kod morsa\decoding.cpp
+	"decoding.hpp"
+
+1358030383 d:\madjer\informatyka\wmi\ppr\kod morsa\decoding.hpp
+	<iostream>
+	<string>
+
+1358439996 source:d:\madjer\informatyka\wmi\ppr\kod morsa\main.cpp
+	"coding.hpp"
+	"decoding.hpp"
+	"music.hpp"
+	<fstream>
+	<cstdlib>
+
+1358018948 d:\madjer\informatyka\wmi\ppr\kod morsa\coding.hpp
+	<iostream>
+	<string>
+
+1358043486 d:\madjer\informatyka\wmi\ppr\kod morsa\music.hpp
+	<iostream>
+	<windows.h>
+
+1358269826 source:d:\madjer\informatyka\wmi\ppr\kod morsa\music.cpp
+	"music.hpp"
+
+1358267139 source:d:\madjer\informatyka\wmi\ppr\kod morsa\coding.cpp
+	"coding.hpp"
+
